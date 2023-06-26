@@ -3,7 +3,7 @@ set currdir=%~dp0
 IF "%currdir:~-1%"=="\" SET currdir=%currdir:~0,-1%
 cd /d "%currdir%"
 
-set MARIADB_VER=10.9.2
+set MARIADB_VER=11.1.1
 set zipfile=mariadb-%MARIADB_VER%-winx64.zip
 set MARIADB_FOLDER_NAME=mariadb-%MARIADB_VER%-winx64
 

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MARIADB_VER=10.9.2
+MARIADB_VER=11.1.1
 MARIADB_TARBALL=mariadb-${MARIADB_VER}-linux-systemd-x86_64.tar.gz
 MARIADB_FOLDER_NAME=mariadb-${MARIADB_VER}-linux-systemd-x86_64
 
